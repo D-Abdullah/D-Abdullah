@@ -3,7 +3,7 @@
 ## 🌟 Transforming Ideas into Digital Realities with Precision & Passion
 
 ### 🚀 Who Am I?
-Hi there! I'm Abdullah Khaled, a seasoned Software Developer Engineer with a flair for Backend and Frontend magic, a WordPress maestro, and a visionary Software Solution Architect. With over 7 years of hands-on experience, I turn complex problems into simple, elegant solutions. My mission? To bring your ideas to life with code that is not just functional, but also scalable, secure, and stunning.
+Hi there! I'm Abdullah Khaled, a Software Developer Engineer with a flair for Backend and Frontend magic, a WordPress maestro, and a visionary Software Solution Architect. With over 7 years of hands-on experience, I turn complex problems into simple, elegant solutions. My mission? To bring your ideas to life with code that is not just functional, but also scalable, secure, and stunning.
 
 ### 🔧 What I Do Best
 Whether you're looking to build a robust web application, a dynamic mobile app, or a feature-rich e-commerce platform, I've got you covered. My expertise spans across:
