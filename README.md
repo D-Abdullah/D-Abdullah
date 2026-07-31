@@ -1,25 +1,32 @@
-<!-- ═══════════════════ TOP WAVE ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0A1020&height=120&section=header" width="100%" />
+<!-- ═══════════════ HERO ═══════════════ -->
 
 <div align="center">
 
-# Hi, I'm Abdullah Khaled 👋
+<!-- Animated gradient banner with name baked in -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1020,50:1E3A8A,100:3B82F6&height=230&section=header&text=Abdullah%20Khaled&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Engineer%20%E2%80%A2%20Node.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20React%20%E2%80%A2%20Laravel&descSize=17&descAlignY=54" width="100%" alt="Abdullah Khaled — Full-Stack Engineer" />
 
+<!-- Rotating specialties -->
 <a href="https://github.com/D-Abdullah">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&height=70&lines=Full-Stack+Engineer+%E2%80%A2+7%2B+Years;Node.js+%E2%80%A2+NestJS+%E2%80%A2+Laravel+%E2%80%A2+React;E-Commerce+%E2%80%A2+ERP+%E2%80%A2+AI+Automation" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=3B82F6&center=true&vCenter=true&width=720&height=60&lines=7%2B+Years+Building+Production+Systems;E-Commerce+Marketplaces+%E2%80%A2+ERP+%E2%80%A2+SaaS;Real-Time+Apps+%E2%80%A2+Socket.io+%E2%80%A2+WebRTC;LLM+Automation+%E2%80%A2+OpenAI+%E2%80%A2+Claude+%E2%80%A2+Gemini" alt="Specialties" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=D-Abdullah&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" alt="Profile views" />
-
-<!-- 🏆 TROPHY SHELF -->
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=D-Abdullah&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
-
-</div>
 
 <br/>
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<!-- Status badges -->
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Remote%20%7C%20Relocation-22C55E?style=for-the-badge" alt="Open to work" />
+&nbsp;
+<img src="https://img.shields.io/badge/Giza%2C%20Egypt-0A1020?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=D-Abdullah&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
+<!-- Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=D-Abdullah&theme=onedark&no-frame=true&no-bg=true&row=1&column=-1&margin-w=8&margin-h=8&v=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
 
 ## 🚀 About Me
 
@@ -32,7 +39,7 @@
 
 <br/>
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<!-- ═══════════════ TECH STACK ═══════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -62,7 +69,7 @@
 
 <br/>
 
-<!-- ═══════════════════ FEATURED WORK ═══════════════════ -->
+<!-- ═══════════════ FEATURED WORK ═══════════════ -->
 
 ## 💼 Featured Work
 
@@ -82,56 +89,56 @@
 
 <br/>
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
 
 ## 📊 GitHub Stats
 
-<!--
-  ⚠️ RELIABILITY NOTE: the two cards below use the PUBLIC github-readme-stats
-  instance, which rate-limits at peak times. For 100% uptime, deploy your own
-  free instance (5 min — see FIXES-AND-UPGRADES.md) and replace
-  "github-readme-stats.vercel.app" with "YOUR-app.vercel.app" in the two URLs.
--->
-
 <div align="center">
+
 <table border="0">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=D-Abdullah&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0A1020&title_color=3B82F6&icon_color=3B82F6&text_color=9FB3D1&border_color=1E2A45&v=2" alt="GitHub stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Abdullah&layout=compact&langs_count=8&bg_color=0A1020&title_color=3B82F6&text_color=9FB3D1&border_color=1E2A45&v=2" alt="Top languages" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=D-Abdullah&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0A1020&title_color=3B82F6&icon_color=3B82F6&text_color=9FB3D1&border_color=1E2A45&v=3" alt="GitHub stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Abdullah&layout=compact&langs_count=8&bg_color=0A1020&title_color=3B82F6&text_color=9FB3D1&border_color=1E2A45&v=3" alt="Top languages" /></td>
 </tr>
 </table>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Abdullah&custom_title=Contribution%20Activity&bg_color=0A1020&color=9FB3D1&line=3B82F6&point=FFFFFF&area=true&hide_border=true&v=3" alt="Contribution activity" width="96%" />
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=D-Abdullah&background=0A1020&border=1E2A45&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=9FB3D1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7A99" alt="Contribution streak" />
 
-<br/><br/>
+<!--
+  🐍 SNAKE (optional): requires the snake.yml GitHub Action from earlier.
+  If you installed it, un-comment this block:
 
-<!-- 📈 ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Abdullah&custom_title=Contribution%20Activity&bg_color=0A1020&color=9FB3D1&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="96%" />
-
-<br/><br/>
-
-<!-- 🐍 Generated by .github/workflows/snake.yml — run the Action once to create the output branch -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Abdullah/D-Abdullah/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/D-Abdullah/D-Abdullah/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</picture>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Abdullah/D-Abdullah/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/D-Abdullah/D-Abdullah/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
+-->
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
+<!-- ═══════════════ CONNECT ═══════════════ -->
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abdullah-khaled-in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
 <a href="https://abdullahkhaled.com/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+&nbsp;
 <a href="mailto:info@abdullahkhaled.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/D-Abdullah?tab=followers"><img src="https://img.shields.io/github/followers/D-Abdullah?style=for-the-badge&logo=github&labelColor=0A1020&color=3B82F6" alt="GitHub followers" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1020,100:3B82F6&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0A1020&height=110&section=footer" width="100%" alt="Footer wave" />
 
 </div>
