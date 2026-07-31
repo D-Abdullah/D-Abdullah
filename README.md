@@ -21,8 +21,8 @@
 
 <br/><br/>
 
-<!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=D-Abdullah&theme=onedark&no-frame=true&no-bg=true&row=1&column=-1&margin-w=8&margin-h=8&v=3)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 🏆 Trophies — static image from this repo, always renders -->
+[![trophy](./trophy.png)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -95,21 +95,20 @@
 
 <div align="center">
 
-<table border="0">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=D-Abdullah&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0A1020&title_color=3B82F6&icon_color=3B82F6&text_color=9FB3D1&border_color=1E2A45&v=3" alt="GitHub stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Abdullah&layout=compact&langs_count=8&bg_color=0A1020&title_color=3B82F6&text_color=9FB3D1&border_color=1E2A45&v=3" alt="Top languages" /></td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Abdullah&custom_title=Contribution%20Activity&bg_color=0A1020&color=9FB3D1&line=3B82F6&point=FFFFFF&area=true&hide_border=true&v=3" alt="Contribution activity" width="96%" />
+<!-- Live stat strip — shields.io (industrial-grade GitHub API capacity, never naps) -->
+<a href="https://github.com/D-Abdullah?tab=followers"><img src="https://img.shields.io/github/followers/D-Abdullah?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0A1020&color=3B82F6" alt="Followers" /></a>
+&nbsp;
+<a href="https://github.com/D-Abdullah?tab=repositories"><img src="https://img.shields.io/github/stars/D-Abdullah?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&labelColor=0A1020&color=3B82F6" alt="Total stars" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/CODING%20SINCE-2018-3B82F6?style=for-the-badge&labelColor=0A1020" alt="Coding since 2018" />
 
 <br/><br/>
 
+<!-- Contribution numbers — proven-reliable streak service -->
 <img src="https://streak-stats.demolab.com?user=D-Abdullah&background=0A1020&border=1E2A45&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=9FB3D1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7A99" alt="Contribution streak" />
 
 <!--
-  🐍 SNAKE (optional): requires the snake.yml GitHub Action from earlier.
+  🐍 SNAKE (optional): requires the snake.yml GitHub Action.
   If you installed it, un-comment this block:
 
   <br/><br/>
@@ -134,8 +133,6 @@
 <a href="https://abdullahkhaled.com/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:info@abdullahkhaled.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/D-Abdullah?tab=followers"><img src="https://img.shields.io/github/followers/D-Abdullah?style=for-the-badge&logo=github&labelColor=0A1020&color=3B82F6" alt="GitHub followers" /></a>
 
 <br/><br/>
 
