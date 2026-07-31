@@ -22,7 +22,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies — static image from this repo, always renders -->
-[![trophy](./trophy.png)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](./trophy.png)]
 
 </div>
 
